@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowSystem</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>iHackWidget</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.cws.widget.iHackWidget</string>
+	<key>CFBundleName</key>
+	<string>iHackWidget</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.4</string>
+	<key>CFBundleVersion</key>
+	<string>1.4</string>
+	<key>CloseBoxInsetX</key>
+	<integer>19</integer>
+	<key>CloseBoxInsetY</key>
+	<integer>16</integer>
+	<key>Height</key>
+	<integer>280</integer>
+	<key>MainHTML</key>
+	<string>main.html</string>
+	<key>Width</key>
+	<integer>280</integer>
+</dict>
+</plist>
