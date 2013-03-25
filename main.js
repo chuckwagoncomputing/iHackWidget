@@ -94,7 +94,7 @@ if (window.widget) {
 
 function goToWebsite(event)
 {
-    widget.openURL("http://holdemanenterprises.com/#cwc");
+    widget.openURL("http://chuckwagoncomputing.github.com");
 }
 
 

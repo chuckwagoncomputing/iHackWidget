@@ -12,7 +12,7 @@ var dashcodePartSpecs = {
     "roundedRectangleShape": { "creationFunction": "CreateShape", "leftImageWidth": 5, "rightImageWidth": 5, "view": "DC.View" },
     "text": { "text": "ChuckWagon Computing", "view": "DC.Text" },
     "text1": { "text": "© Holdeman Enterprises 2012", "view": "DC.Text" },
-    "text2": { "text": "v. 1.4", "view": "DC.Text" },
+    "text2": { "text": "v. 1.5", "view": "DC.Text" },
     "website": { "creationFunction": "CreateGlassButton", "onclick": "goToWebsite", "text": "Website", "view": "DC.View" }
 };
 
